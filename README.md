@@ -1,1 +1,7 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler 
+
+* A simple scheduler app for planning your workday
+
+
+
+- Built by Bailey Poe
