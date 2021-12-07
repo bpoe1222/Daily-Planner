@@ -5,3 +5,7 @@
 
 
 - Built by Bailey Poe
+
+## Link to deployed site
+
+- [Click Here](https://bpoe1222.github.io/Daily-Planner/)
